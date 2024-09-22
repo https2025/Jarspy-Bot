@@ -11,14 +11,14 @@ import chalk from 'chalk'
 import { fileURLToPath } from 'url'
 
 global.rowner = [
-  ['6282148864989', 'Jarsépay', true]
+  ['6287760550924', 'Gima', true]
 ]
 
 global.owner = [
-  ['6282148864989', 'Jarsépay', true]
+  ['6287760550924', 'Gima', true]
 ]
 global.mods = ['']
-global.prems = ['6282148864989', '6287763792950'] // add it manually for permanent premium users
+global.prems = ['6287760550924', '6287760550924'] // add it manually for permanent premium users
 
 global.idgc = '120363041509832346@g.us' // you must fill your group id first before running this script
 
@@ -44,25 +44,25 @@ global.APIKeys = {
   'https://leyscoders-api.herokuapp.com': 'dappakntlll'
 }
 
-global.namaowner = 'Jarsépay' // owner name
-global.nomorowner = '6282148864989' // owner number
-global.namabot = 'Jarspy' // bot name
-global.nomorbot = '6287841972915' // bot number
+global.namaowner = 'Gima' // owner name
+global.nomorowner = '6287760550924' // owner number
+global.namabot = 'Gima' // bot name
+global.nomorbot = '6287760550924' // bot number
 
-global.wmtitle = 'Jarspy Bot' // title watermark is at the top
-global.wmbody = 'B y  J a r s é p a y' // body watermark is under the title
-global.thumbs = 'https://telegra.ph/file/476dabd35c800091e0357.jpg' // is this the main thumbnail
+global.wmtitle = 'Gima Bot' // title watermark is at the top
+global.wmbody = 'B y  G I M A' // body watermark is under the title
+global.thumbs = 'https://telegra.ph/file/bb3146d0023518b0c527a.jpg' // is this the main thumbnail
 // see the example use here https://telegra.ph/file/2042154c2ad625bb23c84.jpg
 
-global.sig = 'https://instagram.com/jarsepay' // your instagram
-global.sgh = 'https://github.com/jarsepay' // your github
-global.sgc = 'https://chat.whatsapp.com/LGrtCe82EpbKvxYohoRxKn' // your whatsapp group link
-global.sdc = 'https://s.id/aeonnixity' // your discord server (optional)
-global.sid = 'https://s.id/jarspy' // change it to anything, must be a https://... link
+global.sig = 'https://instagram.com/' // your instagram
+global.sgh = 'https://github.com/' // your github
+global.sgc = 'https://chat.whatsapp.com/DZxArATCBdj0Kq00yFgr2N' // your whatsapp group link
+global.sdc = 'https://s.id/' // your discord server (optional)
+global.sid = 'https://s.id/' // change it to anything, must be a https://... link
 
 // sticker packname and author name
-global.packname = 'Contact Support: +62 821-4886-4989'
-global.author = 'By Jarsépay'
+global.packname = 'Contact Support: +62 877-6055-0924'
+global.author = 'By Gima'
 
 global.fsizedoc = '99999999999999'
 global.fpagedoc = '999'
